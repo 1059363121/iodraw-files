@@ -46,7 +46,7 @@
         <mxCell id="u7QFWZwP_d8b8XSbBpdV-49" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;时间序列&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="780" y="845" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="u7QFWZwP_d8b8XSbBpdV-61" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="u7QFWZwP_d8b8XSbBpdV-61" value="" style="group;html=1;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-25.09" y="70" width="1090" height="470" as="geometry" />
         </mxCell>
         <mxCell id="u7QFWZwP_d8b8XSbBpdV-58" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=#d5e8d4;strokeColor=#82b366;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="u7QFWZwP_d8b8XSbBpdV-61">
@@ -134,7 +134,7 @@
         <mxCell id="u7QFWZwP_d8b8XSbBpdV-65" value="&lt;h1&gt;&lt;b&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;空间统计模型&lt;/font&gt;&lt;/span&gt;&lt;/b&gt;&lt;/h1&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="460" y="640" width="60" height="185" as="geometry" />
         </mxCell>
-        <mxCell id="u7QFWZwP_d8b8XSbBpdV-68" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" connectable="0" parent="1">
+        <mxCell id="u7QFWZwP_d8b8XSbBpdV-68" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;html=1;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-30" y="540" width="460" height="390" as="geometry" />
         </mxCell>
         <mxCell id="u7QFWZwP_d8b8XSbBpdV-60" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="u7QFWZwP_d8b8XSbBpdV-68">
