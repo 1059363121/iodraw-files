@@ -252,10 +252,64 @@
     </mxGraphModel>
   </diagram>
   <diagram id="80b183ClqWGXkhcgkJOU" name="第 2 页">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1066" dy="601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="W6MoOgpqIGG31dN70bC_-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="W6MoOgpqIGG31dN70bC_-4" target="W6MoOgpqIGG31dN70bC_-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W6MoOgpqIGG31dN70bC_-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=20;" edge="1" parent="1" source="W6MoOgpqIGG31dN70bC_-4" target="W6MoOgpqIGG31dN70bC_-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W6MoOgpqIGG31dN70bC_-4" value="COX比例风险模型" style="whiteSpace=wrap;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="550" y="680" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="W6MoOgpqIGG31dN70bC_-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="W6MoOgpqIGG31dN70bC_-6" target="W6MoOgpqIGG31dN70bC_-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W6MoOgpqIGG31dN70bC_-6" value="分布滞后模型" style="whiteSpace=wrap;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="550" y="790" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="W6MoOgpqIGG31dN70bC_-7" value="长期暴露" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="459.99" y="680" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W6MoOgpqIGG31dN70bC_-8" value="短期暴露" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="460" y="830" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W6MoOgpqIGG31dN70bC_-9" value="回归分析模型" style="text;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="420" y="590" width="60" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="W6MoOgpqIGG31dN70bC_-10" value="" style="strokeWidth=2;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="495.08000000000004" y="720" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="W6MoOgpqIGG31dN70bC_-11" value="风险程度OR" style="rounded=0;whiteSpace=wrap;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="800" y="650" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W6MoOgpqIGG31dN70bC_-12" value="样条函数" style="rounded=0;whiteSpace=wrap;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="810" y="810" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W6MoOgpqIGG31dN70bC_-13" value="风险比例HR" style="rounded=0;whiteSpace=wrap;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="800" y="740" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W6MoOgpqIGG31dN70bC_-14" value="" style="rounded=0;whiteSpace=wrap;fillColor=none;dashed=1;strokeWidth=4;strokeColor=#9673a6;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="420" y="900" width="560" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="W6MoOgpqIGG31dN70bC_-15" value="倾向得分匹配（PSM）" style="whiteSpace=wrap;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="533.44" y="920" width="183.13" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="W6MoOgpqIGG31dN70bC_-16" value="分层分析" style="whiteSpace=wrap;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="760" y="920" width="183.13" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="W6MoOgpqIGG31dN70bC_-17" value="混杂因素" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="440" y="940" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W6MoOgpqIGG31dN70bC_-18" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;fillColor=none;strokeColor=#0A0000;fontSize=20;rotation=-180;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="433.13" y="840" width="26.87" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W6MoOgpqIGG31dN70bC_-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="W6MoOgpqIGG31dN70bC_-13" target="W6MoOgpqIGG31dN70bC_-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
