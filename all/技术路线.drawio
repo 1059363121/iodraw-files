@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="24.8.6">
   <diagram name="第 1 页" id="S4vARhh8KjMdQaPIsJIj">
-    <mxGraphModel dx="1893" dy="601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2604" dy="1002" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,7 +31,7 @@
         <mxCell id="u7QFWZwP_d8b8XSbBpdV-33" value="邻接矩阵" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="MaR1eD7RPBaUpfUE0ZZK-1" vertex="1">
           <mxGeometry x="220" y="145" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="u7QFWZwP_d8b8XSbBpdV-26" value="空间滞后（SAR）" style="whiteSpace=wrap;fontSize=20;" parent="MaR1eD7RPBaUpfUE0ZZK-1" vertex="1">
+        <mxCell id="u7QFWZwP_d8b8XSbBpdV-26" value="空间滞后（SLM）" style="whiteSpace=wrap;fontSize=20;" parent="MaR1eD7RPBaUpfUE0ZZK-1" vertex="1">
           <mxGeometry x="400" y="110" width="184" height="60" as="geometry" />
         </mxCell>
         <mxCell id="u7QFWZwP_d8b8XSbBpdV-48" value="" style="endArrow=classic;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;exitX=0.429;exitY=0.865;exitDx=0;exitDy=0;exitPerimeter=0;" parent="MaR1eD7RPBaUpfUE0ZZK-1" source="u7QFWZwP_d8b8XSbBpdV-59" target="u7QFWZwP_d8b8XSbBpdV-29" edge="1">
