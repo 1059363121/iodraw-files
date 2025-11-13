@@ -1,9 +1,90 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="29.0.2">
   <diagram name="第 1 页" id="9k1rVkUOBUIZ1sQm9X6e">
-    <mxGraphModel>
+    <mxGraphModel dx="1098" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="XQ2jJNNUejyItAT9POBi-10" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="350" y="190" width="150" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="XQ2jJNNUejyItAT9POBi-1" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="XQ2jJNNUejyItAT9POBi-10">
+          <mxGeometry width="150" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="XQ2jJNNUejyItAT9POBi-2" value="统一时空参考框架" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="XQ2jJNNUejyItAT9POBi-10">
+          <mxGeometry x="9.370000000000005" y="6.666666666666671" width="131.25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XQ2jJNNUejyItAT9POBi-4" value="研究区域边界、&lt;div&gt;基础地理数据&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="XQ2jJNNUejyItAT9POBi-10">
+          <mxGeometry x="13.125" y="33.33333333333334" width="118.125" height="33.33333333333334" as="geometry" />
+        </mxCell>
+        <mxCell id="XQ2jJNNUejyItAT9POBi-6" value="空间网格化&lt;div&gt;（ 1 km×1 km）&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="XQ2jJNNUejyItAT9POBi-10">
+          <mxGeometry x="13.127499999999998" y="80.00333333333333" width="118.125" height="33.33333333333334" as="geometry" />
+        </mxCell>
+        <mxCell id="XQ2jJNNUejyItAT9POBi-7" value="统一时间分辨率&lt;div&gt;与时间轴编码&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="XQ2jJNNUejyItAT9POBi-10">
+          <mxGeometry x="13.129999999999995" y="130.00333333333333" width="118.125" height="33.33333333333334" as="geometry" />
+        </mxCell>
+        <mxCell id="XQ2jJNNUejyItAT9POBi-27" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="100" y="70" width="180" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="XQ2jJNNUejyItAT9POBi-8" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="XQ2jJNNUejyItAT9POBi-27">
+          <mxGeometry width="180" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="XQ2jJNNUejyItAT9POBi-12" value="星地观测数据预处理" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="XQ2jJNNUejyItAT9POBi-27">
+          <mxGeometry x="30" y="10" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XQ2jJNNUejyItAT9POBi-28" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="560" y="80" width="170" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="XQ2jJNNUejyItAT9POBi-11" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="XQ2jJNNUejyItAT9POBi-28">
+          <mxGeometry width="170" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="XQ2jJNNUejyItAT9POBi-13" value="通信信令数据预处理" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="XQ2jJNNUejyItAT9POBi-28">
+          <mxGeometry x="25" y="10" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XQ2jJNNUejyItAT9POBi-29" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="555" y="310" width="180" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="XQ2jJNNUejyItAT9POBi-18" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="XQ2jJNNUejyItAT9POBi-29">
+          <mxGeometry width="180" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="XQ2jJNNUejyItAT9POBi-23" value="时间–活动模式识别" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="XQ2jJNNUejyItAT9POBi-29">
+          <mxGeometry x="35" y="10" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XQ2jJNNUejyItAT9POBi-30" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="100" y="300" width="180" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="XQ2jJNNUejyItAT9POBi-15" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="XQ2jJNNUejyItAT9POBi-30">
+          <mxGeometry width="180" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="XQ2jJNNUejyItAT9POBi-22" value="高分辨率污染物浓度场" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="XQ2jJNNUejyItAT9POBi-30">
+          <mxGeometry x="30" y="10" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XQ2jJNNUejyItAT9POBi-31" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="310" y="730" width="180" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="XQ2jJNNUejyItAT9POBi-19" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="XQ2jJNNUejyItAT9POBi-31">
+          <mxGeometry width="180" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="XQ2jJNNUejyItAT9POBi-24" value="融合与暴露计算" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="XQ2jJNNUejyItAT9POBi-31">
+          <mxGeometry x="30" y="10" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XQ2jJNNUejyItAT9POBi-32" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="470" y="520" width="180" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="XQ2jJNNUejyItAT9POBi-17" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="XQ2jJNNUejyItAT9POBi-32">
+          <mxGeometry width="180" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="XQ2jJNNUejyItAT9POBi-26" value="暴露结果置信度评估" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="XQ2jJNNUejyItAT9POBi-32">
+          <mxGeometry x="30" y="10" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XQ2jJNNUejyItAT9POBi-33" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="160" y="530" width="180" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="XQ2jJNNUejyItAT9POBi-14" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="XQ2jJNNUejyItAT9POBi-33">
+          <mxGeometry width="180" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="XQ2jJNNUejyItAT9POBi-25" value="暴露指标构建与统计" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="XQ2jJNNUejyItAT9POBi-33">
+          <mxGeometry x="30" y="10" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
