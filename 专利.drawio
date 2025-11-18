@@ -402,7 +402,7 @@
         <mxCell id="AyqPSID3vAcUHnokq8IW-42" value="特征提取+聚类" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="445.5" y="580" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AyqPSID3vAcUHnokq8IW-45" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 14px;&quot;&gt;M1：静态空间数据准备&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+        <mxCell id="AyqPSID3vAcUHnokq8IW-45" value="&lt;font face=&quot;Helvetica&quot;&gt;M1：静态空间数据准备&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="300" y="50" width="240" height="30" as="geometry" />
         </mxCell>
       </root>
