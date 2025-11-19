@@ -413,38 +413,120 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Vw3lxNG2rWIBxt9BmDwg-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_wLefzIRiFo7QbcrsZZu-1" target="_wLefzIRiFo7QbcrsZZu-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_wLefzIRiFo7QbcrsZZu-1" value="浓度场数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="30" width="96" height="40" as="geometry" />
+          <mxGeometry x="280" y="30" width="96" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_wLefzIRiFo7QbcrsZZu-2" value="浓度场数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="110" width="96" height="40" as="geometry" />
+        <mxCell id="Vw3lxNG2rWIBxt9BmDwg-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_wLefzIRiFo7QbcrsZZu-2" target="_wLefzIRiFo7QbcrsZZu-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="70" />
+              <mxPoint x="560" y="90" />
+              <mxPoint x="637" y="90" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="_wLefzIRiFo7QbcrsZZu-3" value="浓度场数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="110" width="96" height="40" as="geometry" />
+        <mxCell id="Vw3lxNG2rWIBxt9BmDwg-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_wLefzIRiFo7QbcrsZZu-2" target="_wLefzIRiFo7QbcrsZZu-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="70" />
+              <mxPoint x="560" y="90" />
+              <mxPoint x="468" y="90" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="_wLefzIRiFo7QbcrsZZu-4" value="浓度场数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="110" width="96" height="40" as="geometry" />
+        <mxCell id="_wLefzIRiFo7QbcrsZZu-2" value="时间–活动表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="30" width="96" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_wLefzIRiFo7QbcrsZZu-5" value="浓度场数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="200" width="96" height="40" as="geometry" />
+        <mxCell id="Vw3lxNG2rWIBxt9BmDwg-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_wLefzIRiFo7QbcrsZZu-3" target="_wLefzIRiFo7QbcrsZZu-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_wLefzIRiFo7QbcrsZZu-6" value="浓度场数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="200" width="96" height="40" as="geometry" />
+        <mxCell id="Vw3lxNG2rWIBxt9BmDwg-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_wLefzIRiFo7QbcrsZZu-3" target="Vw3lxNG2rWIBxt9BmDwg-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_wLefzIRiFo7QbcrsZZu-7" value="浓度场数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="270" width="96" height="40" as="geometry" />
+        <mxCell id="_wLefzIRiFo7QbcrsZZu-3" value="环境浓度数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="110" width="96" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_wLefzIRiFo7QbcrsZZu-8" value="浓度场数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="350" width="96" height="40" as="geometry" />
+        <mxCell id="Vw3lxNG2rWIBxt9BmDwg-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_wLefzIRiFo7QbcrsZZu-4" target="_wLefzIRiFo7QbcrsZZu-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="190" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="_wLefzIRiFo7QbcrsZZu-9" value="浓度场数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="420" width="96" height="40" as="geometry" />
+        <mxCell id="Vw3lxNG2rWIBxt9BmDwg-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_wLefzIRiFo7QbcrsZZu-4" target="_wLefzIRiFo7QbcrsZZu-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_wLefzIRiFo7QbcrsZZu-10" value="浓度场数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="420" width="96" height="40" as="geometry" />
+        <mxCell id="_wLefzIRiFo7QbcrsZZu-4" value="用户时空&lt;div&gt;活动数据&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="110" width="96" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_wLefzIRiFo7QbcrsZZu-11" value="浓度场数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="420" width="96" height="40" as="geometry" />
+        <mxCell id="Vw3lxNG2rWIBxt9BmDwg-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_wLefzIRiFo7QbcrsZZu-5" target="Vw3lxNG2rWIBxt9BmDwg-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_wLefzIRiFo7QbcrsZZu-5" value="时序&lt;div&gt;浓度轨迹&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="190" width="96" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Vw3lxNG2rWIBxt9BmDwg-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_wLefzIRiFo7QbcrsZZu-6" target="_wLefzIRiFo7QbcrsZZu-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vw3lxNG2rWIBxt9BmDwg-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_wLefzIRiFo7QbcrsZZu-6" target="Vw3lxNG2rWIBxt9BmDwg-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_wLefzIRiFo7QbcrsZZu-6" value="暴露参数数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="589" y="110" width="96" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Vw3lxNG2rWIBxt9BmDwg-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_wLefzIRiFo7QbcrsZZu-7" target="Vw3lxNG2rWIBxt9BmDwg-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_wLefzIRiFo7QbcrsZZu-7" value="时序活动强度&lt;div&gt;/呼吸参数&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="190" width="96" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Vw3lxNG2rWIBxt9BmDwg-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_wLefzIRiFo7QbcrsZZu-8" target="_wLefzIRiFo7QbcrsZZu-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_wLefzIRiFo7QbcrsZZu-8" value="单污染物多时间区间暴露结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="350" width="96" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_wLefzIRiFo7QbcrsZZu-9" value="多污染物综合暴露指数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="589" y="350" width="96" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Vw3lxNG2rWIBxt9BmDwg-7" value="格网匹配" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="146" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vw3lxNG2rWIBxt9BmDwg-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vw3lxNG2rWIBxt9BmDwg-10" target="_wLefzIRiFo7QbcrsZZu-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vw3lxNG2rWIBxt9BmDwg-10" value="有效暴露浓度时间线" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="270" width="96" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Vw3lxNG2rWIBxt9BmDwg-14" value="场景修正" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="436" y="226" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vw3lxNG2rWIBxt9BmDwg-16" value="累加和平均" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="470" y="314" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Vw3lxNG2rWIBxt9BmDwg-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vw3lxNG2rWIBxt9BmDwg-19" target="_wLefzIRiFo7QbcrsZZu-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vw3lxNG2rWIBxt9BmDwg-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.162;exitY=0.667;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="Vw3lxNG2rWIBxt9BmDwg-19" target="Vw3lxNG2rWIBxt9BmDwg-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vw3lxNG2rWIBxt9BmDwg-19" value="质量与参数控制" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="586" y="260" width="102" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vw3lxNG2rWIBxt9BmDwg-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="Vw3lxNG2rWIBxt9BmDwg-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vw3lxNG2rWIBxt9BmDwg-26" value="反馈" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="526" y="256" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vw3lxNG2rWIBxt9BmDwg-27" value="调整" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="620" y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vw3lxNG2rWIBxt9BmDwg-28" value="调整" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="526" y="278" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
