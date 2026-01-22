@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.3.2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="29.3.4">
   <diagram name="第 1 页" id="x4dNgNXuTQRhddHMMD2h">
-    <mxGraphModel dx="915" dy="505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1098" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="1rmvdGOBjss1FRE8_ykN-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" value="" vertex="1">
+          <mxGeometry height="145" width="268" x="249" y="405" as="geometry" />
+        </mxCell>
         <mxCell id="hf-KDH8CASbK-tv-q63--1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="个体随访数据" vertex="1">
           <mxGeometry height="40" width="100" x="260" y="40" as="geometry" />
         </mxCell>
@@ -46,16 +49,19 @@
         <mxCell id="velIK-xDt7VdbR9VkgJr-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="乡镇级" vertex="1">
           <mxGeometry height="30" width="60" x="349" y="90" as="geometry" />
         </mxCell>
+        <mxCell id="1rmvdGOBjss1FRE8_ykN-7" edge="1" parent="1" source="velIK-xDt7VdbR9VkgJr-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="1rmvdGOBjss1FRE8_ykN-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="velIK-xDt7VdbR9VkgJr-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="贝叶斯空间&lt;div&gt;Cox比例风险模型&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="120" x="323" y="330" as="geometry" />
         </mxCell>
         <mxCell id="velIK-xDt7VdbR9VkgJr-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="控制空间混杂" vertex="1">
           <mxGeometry height="30" width="100" x="270" y="225" as="geometry" />
         </mxCell>
-        <mxCell id="velIK-xDt7VdbR9VkgJr-27" connectable="0" parent="1" style="group" value="" vertex="1">
+        <mxCell id="velIK-xDt7VdbR9VkgJr-27" connectable="0" parent="1" style="group;dashed=1;dashPattern=12 12;" value="" vertex="1">
           <mxGeometry height="81" width="390" x="184" y="130" as="geometry" />
         </mxCell>
-        <mxCell id="velIK-xDt7VdbR9VkgJr-28" connectable="0" parent="velIK-xDt7VdbR9VkgJr-27" style="group" value="" vertex="1">
+        <mxCell id="velIK-xDt7VdbR9VkgJr-28" connectable="0" parent="velIK-xDt7VdbR9VkgJr-27" style="group;dashed=1;dashPattern=12 12;" value="" vertex="1">
           <mxGeometry height="81" width="390" as="geometry" />
         </mxCell>
         <mxCell id="velIK-xDt7VdbR9VkgJr-26" parent="velIK-xDt7VdbR9VkgJr-28" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
@@ -97,10 +103,40 @@
           <mxGeometry height="40" width="80" x="386" y="269" as="geometry" />
         </mxCell>
         <mxCell id="velIK-xDt7VdbR9VkgJr-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="地理探测器" vertex="1">
-          <mxGeometry height="30" width="84" x="220" y="420" as="geometry" />
+          <mxGeometry height="30" width="100" x="278" y="420" as="geometry" />
         </mxCell>
         <mxCell id="velIK-xDt7VdbR9VkgJr-42" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="GeoSHAP" vertex="1">
-          <mxGeometry height="30" width="84" x="341" y="420" as="geometry" />
+          <mxGeometry height="30" width="84" x="416" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="1rmvdGOBjss1FRE8_ykN-6" edge="1" parent="1" source="1rmvdGOBjss1FRE8_ykN-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="1rmvdGOBjss1FRE8_ykN-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1rmvdGOBjss1FRE8_ykN-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="气候气象&lt;div&gt;热环境&lt;/div&gt;&lt;div&gt;城市化&amp;nbsp;&lt;/div&gt;&lt;div&gt;土地覆盖&amp;nbsp;&lt;/div&gt;&lt;div&gt;社会经济 &amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="574" y="462.5" as="geometry" />
+        </mxCell>
+        <mxCell id="1rmvdGOBjss1FRE8_ykN-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;rotation=90;" value="层次聚类" vertex="1">
+          <mxGeometry height="24.25" width="73.5" x="249.13" y="485.38" as="geometry" />
+        </mxCell>
+        <mxCell id="1rmvdGOBjss1FRE8_ykN-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;rotation=90;" value="q值排名" vertex="1">
+          <mxGeometry height="24.25" width="73.5" x="280.005" y="485.385" as="geometry" />
+        </mxCell>
+        <mxCell id="1rmvdGOBjss1FRE8_ykN-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;rotation=90;" value="协同效应" vertex="1">
+          <mxGeometry height="24.25" width="73.5" x="309.995" y="485.385" as="geometry" />
+        </mxCell>
+        <mxCell id="1rmvdGOBjss1FRE8_ykN-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;rotation=90;" value="时间特性" vertex="1">
+          <mxGeometry height="24.25" width="73.5" x="342.245" y="485.385" as="geometry" />
+        </mxCell>
+        <mxCell id="1rmvdGOBjss1FRE8_ykN-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: light-dark(rgb(179, 0, 0), rgb(237, 237, 237));&quot;&gt; (全局识别)    &lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="298" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="1rmvdGOBjss1FRE8_ykN-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: light-dark(rgb(179, 0, 0), rgb(237, 237, 237));&quot;&gt; (局部归因)    &lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="428" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="1rmvdGOBjss1FRE8_ykN-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;rotation=90;" value="机器学习" vertex="1">
+          <mxGeometry height="24.25" width="73.5" x="391.255" y="485.385" as="geometry" />
+        </mxCell>
+        <mxCell id="1rmvdGOBjss1FRE8_ykN-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;rotation=90;" value="SHAP计算" vertex="1">
+          <mxGeometry height="44.62" width="73.5" x="435.81" y="475.2" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
