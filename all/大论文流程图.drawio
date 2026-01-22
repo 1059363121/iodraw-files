@@ -4,6 +4,12 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="1rmvdGOBjss1FRE8_ykN-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" value="" vertex="1">
+          <mxGeometry height="200" width="135" x="855" y="189" as="geometry" />
+        </mxCell>
+        <mxCell id="1rmvdGOBjss1FRE8_ykN-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" value="" vertex="1">
+          <mxGeometry height="250" width="120" x="700" y="164" as="geometry" />
+        </mxCell>
         <mxCell id="1rmvdGOBjss1FRE8_ykN-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" value="" vertex="1">
           <mxGeometry height="145" width="268" x="249" y="405" as="geometry" />
         </mxCell>
@@ -137,6 +143,30 @@
         </mxCell>
         <mxCell id="1rmvdGOBjss1FRE8_ykN-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;rotation=90;" value="SHAP计算" vertex="1">
           <mxGeometry height="44.62" width="73.5" x="435.81" y="475.2" as="geometry" />
+        </mxCell>
+        <mxCell id="1rmvdGOBjss1FRE8_ykN-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="空气污染浓度变化" vertex="1">
+          <mxGeometry height="50" width="110" x="705" y="194" as="geometry" />
+        </mxCell>
+        <mxCell id="1rmvdGOBjss1FRE8_ykN-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="驱动因素变化" vertex="1">
+          <mxGeometry height="50" width="110" x="705" y="264" as="geometry" />
+        </mxCell>
+        <mxCell id="1rmvdGOBjss1FRE8_ykN-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="联合变化" vertex="1">
+          <mxGeometry height="50" width="110" x="705" y="334" as="geometry" />
+        </mxCell>
+        <mxCell id="1rmvdGOBjss1FRE8_ykN-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="可预防发病例数 " vertex="1">
+          <mxGeometry height="30" width="110" x="865" y="224" as="geometry" />
+        </mxCell>
+        <mxCell id="1rmvdGOBjss1FRE8_ykN-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="情景模拟" vertex="1">
+          <mxGeometry height="30" width="60" x="730" y="164" as="geometry" />
+        </mxCell>
+        <mxCell id="1rmvdGOBjss1FRE8_ykN-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="YLD（伤残生存年） " vertex="1">
+          <mxGeometry height="30" width="110" x="865" y="274" as="geometry" />
+        </mxCell>
+        <mxCell id="1rmvdGOBjss1FRE8_ykN-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="医疗费用/生产力损失避免" vertex="1">
+          <mxGeometry height="30" width="110" x="865" y="324" as="geometry" />
+        </mxCell>
+        <mxCell id="1rmvdGOBjss1FRE8_ykN-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="效益评估" vertex="1">
+          <mxGeometry height="30" width="60" x="890" y="194" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
